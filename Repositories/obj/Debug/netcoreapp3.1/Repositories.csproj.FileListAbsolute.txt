@@ -1,0 +1,14 @@
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\FFModels.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\bin\Debug\netcoreapp3.1\FFModels.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache

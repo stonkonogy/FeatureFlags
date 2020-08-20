@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxuDzyNvmkWaMEvn+uyagP2BoRVzYMsrVylP200Mttq855C+BpEguBDqwQ+JD+O8BaKTaMf73KJe3Wb/yREQlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tonkonogy\\Documents\\FeatureFlags\\FFAPI\\FFAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonkonogy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

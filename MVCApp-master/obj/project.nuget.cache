@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxjD9Sw3saGgY9pVEZOdvSjRawKo4zNgA67yNI2eHR78fQK3EXQwuvAjnZHPYi/qsKddHeqt8BtC+fTqrFZeOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tonkonogy\\Documents\\FeatureFlags\\MVCApp-master\\MVCApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonkonogy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

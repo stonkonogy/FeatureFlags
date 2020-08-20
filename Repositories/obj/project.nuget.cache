@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqligGqoWUCbGLBRM8ouF+6r6Ablt5qSfAhJ5S8UtV3GdmrM0SClYY5OcvHfWuPedGhnZicvhWUEIIn4d7bTeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tonkonogy\\Documents\\FeatureFlags\\Repositories\\Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonkonogy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

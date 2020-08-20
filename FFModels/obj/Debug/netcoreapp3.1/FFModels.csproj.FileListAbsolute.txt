@@ -1,0 +1,9 @@
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\bin\Debug\netcoreapp3.1\FFModels.deps.json
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\bin\Debug\netcoreapp3.1\FFModels.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\bin\Debug\netcoreapp3.1\FFModels.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.AssemblyInfoInputs.cache
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.AssemblyInfo.cs
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.csproj.CoreCompileInputs.cache
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.dll
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.pdb
+C:\Users\Tonkonogy\Documents\FeatureFlags\FFModels\obj\Debug\netcoreapp3.1\FFModels.csprojAssemblyReference.cache
